@@ -1,0 +1,19 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "name": "Hamburg",
+      "inhabitans": 1800000
+    },
+    {
+      "id": 2,
+      "name": "Köln",
+      "inhabitans": 1086000
+    },
+    {
+      "id": 3,
+      "name": "Berlin",
+      "inhabitans": 6200000
+    }
+  ]
+}
